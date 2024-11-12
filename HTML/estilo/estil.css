@@ -1,0 +1,72 @@
+
+.flex {
+display: flex;
+}
+
+#titulo {
+margin-left: 5px;
+}
+
+.boton:link, .bottom:visited {
+background-color: black;
+color: white;
+padding: 15px 68.4%;
+text-align: center;
+display: inline-block;
+}
+
+.boton:hover, .boton:active {
+background-color: grey;
+
+}
+
+#lateral {
+display: flex;
+width: 174px;
+margin-top: -1%;
+margin-right: 10px;
+margin-left: -10px;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#objetoslateral {
+padding-left: 5%;
+}
+
+#iconolateral {
+height: 30px;
+padding-top: 4%;
+}
+
+#videolateral {
+display: flex;
+height: 10%;
+}
+
+.icono {
+height: 40px;
+}
+
+.cosimg {
+display: flex;
+height: 150px;
+margin-left: 5%;
+}
+
+#text1cos {
+display: flex;
+width: 70%;
+}
+
+.icono:hover{
+background-color: lightgrey;
+}
+
+a {
+text-decoration: none;
+color: white;
+}
+
+footer {
+background-color: lightgray;
+}
