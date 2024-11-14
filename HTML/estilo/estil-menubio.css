@@ -1,0 +1,88 @@
+#barralta {
+display: flex;
+justify-content: start;
+border: 1px solid grey;
+}
+    
+#icono {
+height: 30px;
+margin-top: 1.2%;
+margin-left: 1%;
+margin-right: 20px;
+}
+    
+#pagina {
+display: flex;
+}
+    
+#barralateral {
+display: flex;
+flex-direction: column;
+width: 300px;
+height: 538px;
+border-right: 1px solid gray;
+}
+    
+#cos {
+display: flex;
+flex-direction: column;
+margin-left: 1%;
+margin-top: 1%;
+}
+
+#p1_cosadalt {
+margin-top: -3%;
+}
+
+#p2_cosadalt {
+display: flex;
+justify-content: end;
+}
+
+#cosmig {
+width: 700px;
+height: auto;
+border-top: 1px solid grey;
+border-bottom: 1px solid grey;
+}
+
+#anuncios {
+display: flex;
+flex-direction: column;
+justify-content: center;
+width: 300px;
+height: 538px;
+border-left: 1px solid grey;
+margin-left: 150px;
+text-align: center;
+}
+
+.coslateral {
+margin-left: 3%;
+margin-top: -5%;
+}
+
+.ad {
+height: 145px;
+}
+
+a {
+text-decoration: none;
+color: black;
+color: #494949;
+}
+
+footer {
+font-size: 10px;
+}
+
+h2 {
+margin-left: 10px;
+color: #494949;
+}
+
+body {
+margin: 0;
+}
+
+    
